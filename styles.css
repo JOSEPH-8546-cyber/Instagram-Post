@@ -12,9 +12,12 @@ h2 img {width: 50px; position: relative; left: 450px; bottom: 47px; }
 
 .photo img{ width: 400px; height: 300px; position: relative; left: 50px; bottom: 25px;}
 
-.like img{ width: 50px;position: relative; left: 10px; top: -30px;}
-.messenger img {width: 50px; position: relative; top: -110px; left: 75px;}
-.share img{ width: 50px; position: relative; top: -185px; left: 140px;}
-.tag img {width: 50px; position: relative; top: -265px; left: 450px;}
+.like img{ width: 40px; height: 40px; position: relative; left: 30px; top: -30px;}
+
+.messenger img {width: 40px; height: 40px; position: relative; top: -100px; left: 90px;}
+
+.share img{ width: 50px; height: 40px;  position: relative; top: -165px; left: 140px;}
+
+.tag img {width: 50px; height: 50px;  position: relative; top: -240px; left: 420px;}
 
 .likeds p{font-size: small; position: relative; bottom: 600;}
