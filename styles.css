@@ -1,0 +1,20 @@
+body{ background-image: url(https://images.alphacoders.com/101/thumb-350-1017007.jpg);
+
+}
+
+.container{ background-color: white; width: 500px; height: 720px; position: relative; left: 550px; top: 10px;
+}
+
+h1{ background-color: white;}
+
+h1 img { width: 50px; height: 50px; position: relative; top: 20px}
+h2 img {width: 50px; position: relative; left: 450px; bottom: 47px; }
+
+.photo img{ width: 400px; height: 300px; position: relative; left: 50px; bottom: 25px;}
+
+.like img{ width: 50px;position: relative; left: 10px; top: -30px;}
+.messenger img {width: 50px; position: relative; top: -110px; left: 75px;}
+.share img{ width: 50px; position: relative; top: -185px; left: 140px;}
+.tag img {width: 50px; position: relative; top: -265px; left: 450px;}
+
+.likeds p{font-size: small; position: relative; bottom: 600;}
